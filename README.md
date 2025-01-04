@@ -1,6 +1,6 @@
 This project is a custom implementation of the standard C library function printf. It replicates the behavior of printf to format and print data to the standard output.
 
-🛠️ Features
+🛠️ Features :
 Supports standard format specifiers:
 
 %c → Print a character
@@ -27,14 +27,14 @@ int main(void) {
 Expected Output:
 
 Hello, World! The number is: 42
-🧠 How It Works
+🧠 How It Works :
 Parses the format string.
 Identifies format specifiers.
 Processes variadic arguments.
 Outputs formatted text to the standard output.
-💻 Compilation
+💻 Compilation :
 To compile the project, run:
 gcc -Wall -Wextra -Werror *.c -o ft_printf
-🧑‍💻 Author
+🧑‍💻 Author :
 Meee ! 
 Feel free to contribute or suggest improvements! 🚀
